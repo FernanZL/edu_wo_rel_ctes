@@ -22,6 +22,10 @@ Para instalar las dependencias, puedes usar el siguiente comando:
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
+## Descarga el Dataset
+
+Antes de ejecutar el proyecto, descarga el dataset desde el link provisto arriba y colócalo en la misma carpeta donde se encuentra la notebook de Jupyter ('edu_wo_rel_ctes.ipynb').
+
 ## Como Ejecutar
 
 1. Clona el repositorio
